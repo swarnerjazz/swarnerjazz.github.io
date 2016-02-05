@@ -1,17 +1,18 @@
 
     .beatles {
-        background: #FCC;
+        background: #638A75;
+        font face="verdana" color="green"
     }
 
     .stones {
-         background: #CFC;
+         background: #EC644C;
      }
 
     .who {
-        background: #CCF;
+        background: #D1B47A;
     }
 
     .band {
-        width:200px;
-        height: 30px;
+        width:1000px;
+        height: 60px;
     }
