@@ -11,6 +11,7 @@
     .week {
         background: #547980;
         font-family: "Helvetica", sans-serif;
+        color: white;
         
     }
 
@@ -25,9 +26,9 @@
     }
 
     .Clementine {
-        width:200px;
-        height: 100px;
+        width:90px;
+        height: 40px;
     
     }
-    body {background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/16/Appearance_of_sky_for_weather_forecast,_Dhaka,_Bangladesh.JPG"); width: 5000px, height 1000px} 
+    body {background-image: url("http://images.fineartamerica.com/images-medium-large/dusky-pink-sky-jt-images.jpg"); width: 6000px, height 1000px} 
     
